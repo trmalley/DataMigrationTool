@@ -1,2 +1,5 @@
 Used py2exe to compile
 Command C:\Python27\python setup.py py2exe
+
+Download py2exe here. Make sure to select the version that is correct for you.
+https://sourceforge.net/projects/py2exe/files/py2exe/
