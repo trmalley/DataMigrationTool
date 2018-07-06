@@ -1,0 +1,2 @@
+Used py2exe to compile
+Command C:\Python27\python setup.py py2exe
